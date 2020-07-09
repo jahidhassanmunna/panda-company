@@ -46,5 +46,24 @@
 }
 .card{
     border: none;
-    box-shadow: 5px 5px 10px cyan;
+    box-shadow: 5px 5px 15px gray;
+}
+.center{
+    text-align:center;
+    color:red;
+}
+.card-footer{
+    background-color:white;
+    border-radius: 10px;
+    border-top: none;
+
+}
+#contact-us{
+    height:200px;
+}
+#contact-us h6{
+    color: gray;
+} 
+.mid{
+    text-align: center;
 }

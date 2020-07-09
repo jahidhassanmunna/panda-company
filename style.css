@@ -19,3 +19,32 @@
     padding: 9px 25px;
     cursor:pointer;
 }
+.cat1{
+    background-color: orangered;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+.cat2{
+    background-color: yellowgreen;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+.cat3{
+    background-color: lightblue;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+.categories h1{
+    color:white;
+
+}
+.categories img{
+    width:100px;
+}
+.tk-color{
+    color:red;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px cyan;
+}
